@@ -801,8 +801,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CameraControlExam06
   player1: {fileID: 1818353603}
   player2: {fileID: 987571337}
-  offset: 2
+  offset: 0
   targetCamera: {fileID: 534669904}
+  width: 0
+  height: 0
 --- !u!4 &2095946186
 Transform:
   m_ObjectHideFlags: 0
