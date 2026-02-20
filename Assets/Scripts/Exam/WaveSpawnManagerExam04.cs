@@ -8,11 +8,11 @@ public class WaveSpawnManagerExam04 : MonoBehaviour
     public bool enableWaveCycling;
 
     private int currentWave = 0;
-    private float waveEndTime = 0f;
+    [SerializeField] private float waveEndTime = 0f;
 
     void Start()
     {
-        waveController.StartWave(waveConfigurations[currentWave]);
+        WaveSpawn();    
     }
 
     void Update()
@@ -28,12 +28,23 @@ public class WaveSpawnManagerExam04 : MonoBehaviour
             if (currentWave >= waveConfigurations.Length)
             {
                 Debug.Log("All waves completed!");
+                if (enableWaveCycling)
+                {
+                    Debug.Log("Restart Wave 1");
+                    currentWave = 0;
+                    WaveSpawn();
+                }
             }
             else
             {
-                waveController.StartWave(waveConfigurations[currentWave]);
-                waveEndTime = Time.time + waveConfigurations[currentWave].waveInterval;
+                WaveSpawn();
             }
         }
+    }
+    public void WaveSpawn()
+    {
+        waveController.StartWave(waveConfigurations[currentWave]);
+        waveEndTime = Time.time + waveConfigurations[currentWave].waveInterval;
+        Debug.Log($"Wave: {currentWave + 1}");
     }
 }
