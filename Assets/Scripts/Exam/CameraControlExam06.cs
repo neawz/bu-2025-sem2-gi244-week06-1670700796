@@ -18,9 +18,9 @@ public class CameraControlExam06 : MonoBehaviour
         Vector3 player2Pos = player2.transform.position;
 
         // Student code ...
-        width = (Mathf.Abs(player1Pos.x - player2Pos.x) + offset) / targetCamera.aspect;
+        width = (Mathf.Abs(player1Pos.x - player2Pos.x) / targetCamera.aspect) + offset;
         height = Mathf.Abs(player2Pos.z - player1Pos.z) + offset;
-        
+        targetCamera.transform.position = new Vector3(player1Pos.x, 40, player2Pos.z);
         targetCamera.orthographicSize = Mathf.Max(width, height);
 
         

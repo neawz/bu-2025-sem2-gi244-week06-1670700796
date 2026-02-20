@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|d:\\1670700796 - chaya\\bu-2025-sem2-gi244-week06-1670700796\\assets\\scripts\\exam\\playercontrollerexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|D:\\1670700796 - Chaya\\bu-2025-sem2-gi244-week06-1670700796\\assets\\scripts\\exam\\playercontrollerexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|d:\\1670700796 - chaya\\bu-2025-sem2-gi244-week06-1670700796\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|D:\\1670700796 - Chaya\\bu-2025-sem2-gi244-week06-1670700796\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14906E02-3435-A0A3-ED02-1A96DAAA84DB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam06.cs",
               "ToolTip": "D:\\1670700796 - Chaya\\bu-2025-sem2-gi244-week06-1670700796\\Assets\\Scripts\\Exam\\PlayerControllerExam06.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam06.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T03:17:15.517Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "ToolTip": "D:\\1670700796 - Chaya\\bu-2025-sem2-gi244-week06-1670700796\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T03:17:14.533Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA1wDwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T03:07:01.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T03:07:01.55Z"
             }
           ]
         }
